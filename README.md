@@ -3,6 +3,9 @@ A vibe coded Autodesk Fusion 360 add-in which adds a button to 'flip' the curren
 
 <img src="./SectionFlipper/AddInIcon.svg" alt="Icon" height="200">
 
+[DemoVideo-SectionFlipper.webm](https://github.com/user-attachments/assets/0151aec9-0c41-4818-9b69-196063242218)
+
+
 ## Overview
 Adds a button to the UTILITIES > ADD-INS panel which edits the currently visible section view so that its direction/orientation is flipped. This adds the ability for you to bind it to a keyboard shortcut (such as `ctrl+shift+a`)
 
